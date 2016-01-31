@@ -74,5 +74,5 @@ The tidy data variables are:
 
 The rest of the variables represents the mean values calculated according to the subject's ID and the activity performed. From the 4th
 variable to 23th variable and from 37th to 56th, values have time units. From 24th to 36th and from 57th to 69th, a fast Fourier
-transform is applied, so the measurements correspond to frequency.
+transform is applied, so the measurements correspond to frequency (1/s).
 
